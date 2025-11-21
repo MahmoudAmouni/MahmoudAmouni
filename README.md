@@ -3,11 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00E0E5&random=false&width=520&lines=%F0%9F%92%BB+Building+clean+and+scalable+software;%F0%9F%94%A5+Passionate+about+software+engineering;%F0%9F%9A%80+Always+learning+new+technologies" alt="Typing SVG" />
 </a>
 
-**`Software Engineer`**
+**` Software Engineer`**
 -----------------
 
 * 🌍  I'm based in Lebanon🇱🇧
-* ✉️  You can contact me at [mhmdamoun0@gmail.com](mailto:mhmdamoun0@gmail.com)
 * 🧠 Languages I learn or master: JavaScript, TypeScript
 * 📚 Obsessed with clean code, problem-solving, and turning ideas into reality
 * ✨ Open to collabs, feedback, and cool projects — let’s build something awesome together!
