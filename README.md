@@ -8,7 +8,7 @@
 
 * 🌍  I'm based in Lebanon🇱🇧
 * 📚 Obsessed with clean code, problem-solving, and turning ideas into reality
-* ✨ Open to collabs, feedback, and cool projects — let’s build something awesome together!
+* ✨ Open to collabs, feedback, and cool projects, let’s build something awesome together!
 * 🚀Passionate software engineer with a strong enthusiasm for learning and exploring emerging technologies.
 * ⚡ PlayStation player
 * 🚶‍♂️ Long walks enthusiast
